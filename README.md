@@ -1,8 +1,8 @@
-# [Your Full Name]
+# Ilias Koutroumanos
 ## Exercises Repository
 
 ### Introduction
-Hello! My name is [Your Full Name], and this repository contains my daily exercises and projects completed during the [Name of the Bootcamp]. Each folder represents a day or module in the bootcamp, and inside you'll find the exercises along with my code solutions and notes.
+Hello! My name is Ilias Koutroumanos, and this repository contains my daily exercises and projects completed during the Data Analytics. Each folder represents a day or module in the bootcamp, and inside you'll find the exercises along with my code solutions and notes.
 
 ### Repository Structure
 This repository is organized as follows:
